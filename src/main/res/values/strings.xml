@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MyPet</string>
+    <string name="iv_logo">Logo MyPet</string>
+    <string name="btn_registrarse">Sing Up</string>
+    <string name="btn_incio_sesion">Log in</string>
+    <string name="et_correo_electronico">Enter your email</string>
+    <string name="et_password">Enter your password</string>
+    <string name="tv_log_in">Log in to MyPet</string>
+    <string name="btn_inicar_s">Log in</string>
+    <string name="btn_olvidaste">Forgot password?</string>
+    <string name="et_nombre">Enter your name</string>
+    <string name="et_apellido_p">Enter your first last name</string>
+    <string name="et_apellido_m">Enter your second last name</string>
+    <string name="et_correo_e">Enter your email</string>
+    <string name="et_contraseña">Create your password</string>
+    <string name="et_confirmar">Confirm your password</string>
+    <string name="btn_registrar">Sign Up</string>
+    <string name="et_ingresa">Enter your email</string>
+    <string name="btn_enviar">Submit</string>
+    <string name="btn_enviar1">Submit</string>
+    <string name="tv_text1">It sent a verification code to your email</string>
+    <string name="et_codigo">Enter the verification code</string>
+    <string name="tv_ingresa1">Enter your:</string>
+    <string name="et_nueva">Enter your new assword</string>
+    <string name="et_confirma">Confirm your password</string>
+    <string name="btn_aceptar">Accept</string>
+    <string name="iv_usuario">Imagen user</string>
+    <string name="tv_bienvenido">Welcome</string>
+    <string name="btn_registra">Register your pet</string>
+    <string name="et_nom">Enter name the your pet</string>
+    <string name="et_fecha">Date of birth</string>
+    <string name="rb_hembra">Female</string>
+    <string name="rb_macho">Male</string>
+    <string name="btn_registro">Register pet</string>
+    <string name="tv_sexo">Sex:</string>
+    <string name="iv_pet">Photo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Notes</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_perfil">Profile</string>
+    <string name="nav_citas">Dates</string>
+    <string name="nav_historal">History</string>
+    <string name="nav_mensajes">Messages</string>
+    <string name="nav_telefonos">Telephones number</string>
+    <string name="nav_veterinario">Vet Info</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar sesión</string>
+    <string name="action_sign_in_short">Iniciar sesión</string>
+    <string name="error_invalid_email">El correo electrónico es inválido</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="error_incorrect_email">Email no registrado</string>
+    <string name="error_invalid_password">Contraseña inválida</string>
+    <string name="action_logout">Loguout</string>
+
+    <string name="tv_mascota">Mascota</string>
+    <string name="tv_dueño">Propietario</string>
+    <string name="lv_dates_list">Citas</string>
+    <string name="tv_title1">Historial</string>
+    <string name="lv_history_list">Historial</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="btn_agregar">Agregar</string>
+
+</resources>

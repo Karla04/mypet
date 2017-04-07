@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyPet</string>
+    <string name="btn_incio_sesion">Se connecter</string>
+    <string name="btn_inicar_s">Se connecter</string>
+    <string name="et_correo_e">E-mail</string>
+    <string name="et_correo_electronico">E-mail</string>
+    <string name="et_ingresa">E-mail</string>
+    <string name="et_nombre">Prénom</string>
+    <string name="et_apellido_p">Nom</string>
+    <string name="et_apellido_m">Nom</string>
+    <string name="btn_registrarse">Inscription</string>
+    <string name="btn_registrar">Inscription</string>
+    <string name="et_contraseña">Mot de passe</string>
+    <string name="btn_olvidaste">Mot de passe oublié?</string>
+    <string name="et_confirmar">Mot de passe</string>
+    <string name="et_password">Mot de passe</string>
+    <string name="iv_logo"></string>
+    <string name="tv_log_in"></string>
+    <string name="btn_enviar">Continue</string>
+    <string name="btn_enviar1">Continue</string>
+    <string name="et_confirma">Mot de passe</string>
+    <string name="tv_bienvenido">Bonjour</string>
+    <string name="btn_aceptar">Accepter</string>
+    <string name="et_nom">Prénom</string>
+    <string name="et_fecha">Date de naissance</string>
+    <string name="rb_hembra">Femelle</string>
+    <string name="rb_macho">Mâle</string>
+    <string name="tv_sexo">Sexe:</string>
+    <string name="iv_pet">Photo</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="@string/nav_perfil" />
+        <item
+            android:id="@+id/nav_dates"
+            android:icon="@drawable/citas"
+            android:title="@string/nav_citas" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/historial"
+            android:title="@string/nav_historal" />
+        <item
+            android:id="@+id/nav_messages"
+            android:icon="@drawable/mesajes"
+            android:title="@string/nav_mensajes" />
+        <item
+            android:id="@+id/nav_telefonos"
+            android:icon="@drawable/telefono"
+            android:title="@string/nav_telefonos" />
+        <item
+            android:id="@+id/nav_vet"
+            android:icon="@drawable/veterinario"
+            android:title="@string/nav_veterinario" />
+
+        <item
+            android:id="@+id/configuracion"
+            android:title="@string/configuracion">
+            <menu>
+                <item
+                    android:id="@+id/nav_log_out"
+                    android:icon="@android:drawable/ic_lock_power_off"
+                    android:title="@string/nav_log_out" />
+            </menu>
+        </item>
+    </group>
+
+
+
+</menu>
